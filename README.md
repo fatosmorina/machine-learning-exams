@@ -42,8 +42,15 @@ This repository contains links to machine learning exams, homework assignments, 
 
 ##### CS230 Deep Learning
 
-- Winter Quarter 2018 [Midterm Exam](https://cs230.stanford.edu/files/cs230exam_win18.pdf) [Solution](https://cs230.stanford.edu/files/cs230exam_win18_soln.pdf)
+- Fall Quarter 2018 [Midterm Exam](https://cs230.stanford.edu/files/cs230exam_fall18.pdf) [Solution](https://cs230.stanford.edu/files/cs230exam_fall18_soln.pdf)
+- Spring Quarter 2018 [Midterm Exam](https://github.com/s-ai-kia/CS230_DL/blob/master/exam/cs230exam_spr18.pdf) [Solution](https://github.com/s-ai-kia/CS230_DL/blob/master/exam/cs230exam_spr18_soln.pdf)
+- Winter Quarter 2018 [Midterm Exam](https://github.com/s-ai-kia/CS230_DL/blob/master/exam/cs230exam_win18.pdf) [Solution](https://github.com/s-ai-kia/CS230_DL/blob/master/exam/cs230exam_win18_soln.pdf)
+- Fall Quarter 2019 [Midterm Exam](https://cs230.stanford.edu/files/cs230exam_fall19.pdf) [Solution](https://cs230.stanford.edu/files/cs230exam_fall19_soln.pdf)
 - Winter Quarter 2019 [Midterm Exam](https://cs230.stanford.edu/files/cs230exam_win19.pdf) [Solution](https://cs230.stanford.edu/files/cs230exam_win19_soln.pdf)
+- Fall Quarter 2020 [Midterm Exam](https://cs230.stanford.edu/files/cs230exam_fall20.pdf) [Solution](https://cs230.stanford.edu/files/cs230exam_fall20_soln.pdf)
+- Winter Quarter 2020 [Midterm Exam](https://cs230.stanford.edu/files/cs230exam_win20.pdf) [Solution](https://cs230.stanford.edu/files/cs230exam_win20_soln.pdf)
+- Winter Quarter 2021 [Midterm Exam](https://cs230.stanford.edu/files/cs230exam_win21.pdf) [Solution](https://cs230.stanford.edu/files/cs230exam_win21_soln.pdf)
+- Spring Quarter 2021 [Midterm Exam](https://cs230.stanford.edu/syllabus/fall_2021/cs230exam_spr21.pdf) [Solution](https://cs230.stanford.edu/syllabus/fall_2021/cs230exam_spr21_soln.pdf)
 
 ##### CS224N Natural Language Processing with Deep Learning
 
