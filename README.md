@@ -108,6 +108,11 @@ This repository contains links to machine learning exams, homework assignments, 
 - Tutorial 7, week 9, [html](http://www.inf.ed.ac.uk/teaching/courses/mlpr/2018/tut/tut7_questions.html), [pdf](http://www.inf.ed.ac.uk/teaching/courses/mlpr/2018/tut/tut7_questions.pdf)
 
 ***
+## University of Isfahan
+
+##### Pattern Recognition Course
+- [Course Review](https://github.com/amindadgar/Pattern-Recognition-Review)
+
 ## Contributions
-- Spread the word
+- Spread the world
 - Open pull requests with improvements and new links
