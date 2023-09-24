@@ -108,6 +108,17 @@ This repository contains links to machine learning exams, homework assignments, 
 - Tutorial 7, week 9, [html](http://www.inf.ed.ac.uk/teaching/courses/mlpr/2018/tut/tut7_questions.html), [pdf](http://www.inf.ed.ac.uk/teaching/courses/mlpr/2018/tut/tut7_questions.pdf)
 
 ***
+## MIT
+
+##### 6.867 Machine Learning
+- 2001 Midsem [[Exam]](http://www.ai.mit.edu/courses/6.867-f03/exams/midterm2001.pdf) [[solutions]](http://www.ai.mit.edu/courses/6.867-f03/exams/midterm2001sols.pdf)
+- 2001 Endsem [[Exam]](http://www.ai.mit.edu/courses/6.867-f03/exams/final2001.pdf) [[solutions]](http://www.ai.mit.edu/courses/6.867-f03/exams/final2001sols.pdf)
+- 2002 Midsem [[Exam]](http://www.ai.mit.edu/courses/6.867-f03/exams/midterm2002.pdf) [[solutions]](http://www.ai.mit.edu/courses/6.867-f03/exams/midterm2002sols.pdf)
+- 2002 Endsem [[Exam]](http://www.ai.mit.edu/courses/6.867-f03/exams/final2002.pdf) [[solutions]](http://www.ai.mit.edu/courses/6.867-f03/exams/final2002sols.pdf)
+- 2003 Midsem [[Exam with Solution]](http://www.ai.mit.edu/courses/6.867-f03/exams/midtermsols.pdf)
+- 2003 Endsem [[Exam]](http://www.ai.mit.edu/courses/6.867-f03/exams/final2003.pdf) [[solutions]](http://www.ai.mit.edu/courses/6.867-f03/exams/final2003sols.pdf)
+
+
 ## Contributions
 - Spread the word
 - Open pull requests with improvements and new links
